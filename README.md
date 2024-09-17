@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @QiNEP
+- 👋 Hi, I’m @Angga
 - 👀 I’m interested in Artificial intelligence and Cyber Security.
-- 🌱 I’m currently learning on tryhackme about cyber security but I'm doing something crazy on how hacking works.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently focusing on cyber security but I'm doing something crazy about how hacking works.
+
 
 <!---
 QiNEP/QiNEP is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
